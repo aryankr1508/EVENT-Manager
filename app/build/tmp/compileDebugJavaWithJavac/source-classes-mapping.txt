@@ -1,0 +1,6 @@
+com/example/developerstudentclub/BuildConfig.java
+ com.example.developerstudentclub.BuildConfig
+com/example/developerstudentclub/MainActivity.java
+ com.example.developerstudentclub.MainActivity
+com/example/developerstudentclub/sign_in.java
+ com.example.developerstudentclub.sign_in
